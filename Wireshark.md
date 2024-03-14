@@ -4,8 +4,9 @@ Nama Kelompok:
 2.) Muh Faisal Bimantara
 Yang dibutuhkan
 
-1. Software Wireshark
-2. Koneksi wifi
+Software Wireshark
+Koneksi wifi
+
 Memulai Praktik:
 
 1. Pada bagian ini saya mencoba menjalankan paket data melalui Wireshark dengan Capturing From Wi-Fi seperti gambar di bawah ini. Bagian ini saya memerlukan waktu 10 menit untuk mendapatkan paket data yang sedang berjalan. Seperti Gambar dibawah ini saya mulai pada pukul 09.25
